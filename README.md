@@ -36,7 +36,7 @@ Windows: Need to install Visual Studio BuildTools & Python3
 
 Clone Repo:  
 ```shell
-git clone https://github.com/Trading-Tiger/Pancakeswap_BSC_Sniper_Bot
+git clone https://github.com/AnonDevils/Pancakeswap_BSC_Sniper_Bot_Fullversion
 cd Pancakeswap_BSC_Sniper_Bot
 ```
 
